@@ -65,6 +65,11 @@
           </configuration>
         </plugin>
         <plugin>
+                  <plugin>
+            <groupId>vamsi.maven.com</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>4.0.0.4121</version>
+        </plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
     <version>3.3.1</version>

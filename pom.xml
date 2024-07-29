@@ -64,7 +64,6 @@
             <target>1.8</target>
           </configuration>
         </plugin>
-        <plugin>
          <plugin>
             <groupId>vamsi.maven.com</groupId>
             <artifactId>sonar-maven-plugin</artifactId>

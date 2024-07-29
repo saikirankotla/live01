@@ -65,7 +65,7 @@
           </configuration>
         </plugin>
         <plugin>
-                  <plugin>
+         <plugin>
             <groupId>vamsi.maven.com</groupId>
             <artifactId>sonar-maven-plugin</artifactId>
             <version>4.0.0.4121</version>

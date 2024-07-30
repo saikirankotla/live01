@@ -88,5 +88,5 @@
      <name>live01</name>
     <url>http://3.109.56.72:8081/repository/live01/</url>
    </repository>
-<distributionManagement>           
+</distributionManagement>           
 </project>

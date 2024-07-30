@@ -5,7 +5,7 @@
   <groupId>vamsi.maven.com</groupId>
   <artifactId>vamsi</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>Bristleback Webapp archetype</name>
   <url>http://maven.apache.org</url>
 
@@ -85,8 +85,8 @@
 <distributionManagement>
    <repository>
      <id>nexus</id>
-     <name>project-1</name>
-    <url>http://52.66.136.70:8081/repository/live01/</url>
+     <name>live01</name>
+    <url>http://3.109.56.72/:8081/repository/live01/</url>
    <repository>
 <distributionManagement>           
 </project>
